@@ -25,7 +25,6 @@
     "postpublish": "git push origin && git push origin --tags"
   },
   "dependencies": {
-    "got": "^10.2.1",
     "semver": "^7.1.1"
   },
   "devDependencies": {
